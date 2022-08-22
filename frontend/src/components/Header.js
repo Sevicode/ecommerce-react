@@ -6,6 +6,17 @@ const Header = () => {
         <div>
             Logo
         </div>
+        {/* menu options: 
+        - Today's Sales
+        - Women
+        - Home
+        - Men
+        - Beauty
+        - Furniture
+        - Kids
+        - BRANDS
+        - CLEARANCE
+        */}
       
             
         
