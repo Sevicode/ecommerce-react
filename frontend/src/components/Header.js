@@ -1,4 +1,5 @@
 import React from 'react'
+import SignIn from './SignIn'
 
 const Header = () => {
   return (
@@ -17,6 +18,7 @@ const Header = () => {
         - BRANDS
         - CLEARANCE
         */}
+        <SignIn />
       
             
         
