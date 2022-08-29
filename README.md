@@ -6,6 +6,7 @@
 * MongoDB
 ## Frontend Stack
 * React.js
+* npm
 * Styled Components
 * React Router V6
 
