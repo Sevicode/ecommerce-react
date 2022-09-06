@@ -7,7 +7,7 @@
 ## Frontend Stack
 * React.js
 * npm
-* Styled Components
+* MaterialUI
 * React Router V6
 
 *** Work in progress ***
